@@ -1,9 +1,9 @@
 
-ITEM.name = "Carton of Noodles"
-ITEM.model = Model("models/props_junk/garbage_takeoutcarton001a.mdl")
+ITEM.name = "Large Bread"
+ITEM.model = Model("models/props_hla/food/bread.mdl")
 ITEM.width = 1
 ITEM.height = 1
-ITEM.description = "A takeout carton, it's filled with cold noodles."
+ITEM.description = "A large loaf of bread."
 ITEM.category = "Consumables"
 ITEM.permit = "consumables"
 

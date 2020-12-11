@@ -1,7 +1,7 @@
 
-ITEM.name = "Breen's Water"
-ITEM.model = Model("models/props_junk/popcan01a.mdl")
-ITEM.description = "A blue aluminium can of plain water."
+ITEM.name = "Bottle of Water"
+ITEM.model = Model("models/hlvr/props/bottles/plastic_bottle_1.mdl")
+ITEM.description = "A bottle of clean water."
 ITEM.category = "Consumables"
 
 ITEM.functions.Drink = {
